@@ -23,6 +23,8 @@ before_install:
 
 script:
   - brew test-bot
+  - brew audit --new-formula media-info
+  - brew install media-info
 
 notifications:
   slack:
