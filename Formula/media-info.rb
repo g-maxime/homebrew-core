@@ -2,7 +2,7 @@ class MediaInfo < Formula
   desc "Unified display of technical and tag data for audio/video"
   homepage "https://mediaarea.net/"
   url "https://mediaarea.net/download/binary/mediainfo/20.08/MediaInfo_CLI_20.08_GNU_FromSource.tar.bz2"
-  sha256 "4e400b80870c144d549d65c845e0e745050d9512cbf21d1c2f53d70f60492c0c"
+  sha256 "07a5e4ebd00411103f9b04a922d1e9aa37eb8c1deaa2a4bea9af7605394da39c"
   license "BSD-2-Clause"
 
   bottle do
